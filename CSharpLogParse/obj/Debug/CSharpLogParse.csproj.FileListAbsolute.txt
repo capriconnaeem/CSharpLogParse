@@ -1,0 +1,8 @@
+D:\Source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\CSharpLogParse.csproj.AssemblyReference.cache
+D:\Source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\CSharpLogParse.csproj.SuggestedBindingRedirects.cache
+D:\Source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\CSharpLogParse.csproj.CoreCompileInputs.cache
+D:\Source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
